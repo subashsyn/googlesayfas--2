@@ -1,0 +1,73 @@
+nav{
+    color: black;
+    text-align: center;
+   
+}
+
+nav.a{
+    display: flex;
+    margin: auto;
+} 
+img{
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+p.a{
+    color: #70757a;
+}
+
+.sa{
+   
+    
+    padding-left: 14px;
+    display: flex;
+    border: 6px solid red;
+    height: 44px;
+   
+}
+.search{
+    margin: 5 8 0 14;
+    color: black;
+    display: flex;
+    padding: left 14px; ;
+    
+}
+
+.search-area{
+    
+   
+    width: 582px;
+    height: 38px;
+    color: black;
+    background: #fff;
+    margin: auto;
+    border: 1px solid gray ;
+    display: flex   ;
+    border-radius: 3px;
+    z-index: 3;
+}
+.ara-2{
+    float: left;
+    margin-left: 400px;
+}
+.ara{
+    
+    float: left;
+    margin-left: 10px;
+}
+
+
+
+
+
+.input{
+    width: 198px;
+    height: 32px;
+    display: flex;
+    text-align: left;
+    margin: -68 0 0;
+    
+
+}
